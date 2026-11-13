@@ -1,9 +1,3 @@
-# ignora os arquivos terminados em .out
-*.out
-
-# para windows
-*.exe
-
 Ativ01
 Ativ02
 Ativ03
@@ -13,4 +7,5 @@ Ativ06
 bubblesort
 insertionsort
 selectionsort
-ponteiros 
+ponteiros
+Filas
